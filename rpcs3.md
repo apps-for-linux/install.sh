@@ -18,5 +18,8 @@ Web page: https://rpcs3.net/
 Source code: https://github.com/RPCS3/rpcs3
 
 Donate: https://www.patreon.com/Nekotekina  
-Report the bug: https://github.com/RPCS3/rpcs3/issues/new/  
-Download: https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-270a21ebaeda3386cae91c8e8f699eab8a4b182a/rpcs3-v0.0.31-16345-270a21eb_linux64.AppImage
+Report the bug: https://github.com/RPCS3/rpcs3/issues/new/ 
+
+<a href="https://repology.org/project/rpcs3/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rpcs3.svg" alt="Packaging status" align="right">
+</a>

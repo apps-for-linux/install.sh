@@ -1,14 +1,5 @@
----
-title: "WeekToDo"
-meta_title: ""
-description: "WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy"
-date: 2023-02-13T01:04:00Z
-image: "/images/image-placeholder.png"
-categories: ["Productivity"]
-author: "Manuel Ernesto Garcia"
-tags: ["official"]
-draft: false
----
+# WeekToDo
+
 
 WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy
 
@@ -20,3 +11,7 @@ Source code: https://github.com/manuelernestog/weektodo/
 Donate: https://weektodo.me/sponsor-us/
 Report the bug: https://github.com/manuelernestog/weektodo/issues/new  
 Download: https://github.com/manuelernestog/weektodo/releases/download/v2.2.0/WeekToDo-2.2.0.AppImage
+
+<a href="https://repology.org/project/weektodo/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/weektodo.svg" alt="Packaging status" align="right">
+</a>

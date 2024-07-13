@@ -1,15 +1,3 @@
----
-title: "Shotcut"
-meta_title: ""
-description: "Free, open source, cross-platform video editor"
-date: 2024-04-14T01:39:00Z
-image: "/images/image-placeholder.png"
-categories: ["Audio & Video"]
-author: "Meltytech"
-tags: ["official"]
-draft: false
----
-
 Free, open source, cross-platform video editor
 
 License: GPL-3.0
@@ -19,4 +7,8 @@ Source code: https://github.com/mltframework/shotcut
 
 Translate: https://www.transifex.com/ddennedy/shotcut/  
 Report the bug: https://github.com/mltframework/shotcut/issues/new/   
-Download: https://github.com/mltframework/shotcut/releases/download/v24.04.13/shotcut-linux-x86_64-240413.AppImage
+Download: https://github.com/mltframework/shotcut/releases/download/v24.06.26/shotcut-linux-x86_64-240626.AppImage
+
+<a href="https://repology.org/project/shotcut/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/shotcut.svg" alt="Packaging status" align="right">
+</a>

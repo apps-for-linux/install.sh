@@ -20,3 +20,7 @@ Donate: https://github.com/sponsors/martinrotter
 Translate: https://crowdin.com/project/rssguard  
 Report the bug: https://github.com/martinrotter/rssguard/new  
 Download: https://github.com/martinrotter/rssguard/releases/download/4.6.6/rssguard-4.6.6-6cf2717ed-linux64.AppImage
+
+<a href="https://repology.org/project/rssguard/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/rssguard.svg" alt="Packaging status" align="right">
+</a>

@@ -1,14 +1,4 @@
----
-title: "xemu"
-meta_title: ""
-description: "Free and open-source original Xbox game console emulation"
-date: 2024-03-24T12:13:00Z
-image: "/images/image-placeholder.png"
-categories: ["Games"]
-author: "xemu Project"
-tags: ["official"]
-draft: false
----
+# xemu
 
 Free and open-source original Xbox game console emulation
 
@@ -20,3 +10,7 @@ Source code: https://github.com/xemu-project/xemu
 Donate: https://www.patreon.com/mborgerson  
 Report the bug: https://github.com/xemu-project/xemu/issues/new/  
 Download: https://github.com/xemu-project/xemu/releases/download/v0.7.120/xemu-v0.7.120-x86_64.AppImage
+
+<a href="https://repology.org/project/xemu/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/xemu.svg" alt="Packaging status" align="right">
+</a>

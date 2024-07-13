@@ -20,3 +20,7 @@ Source code: https://github.com/SchildiChat/schildichat-desktop
 Translate: https://weblate.spiritcroc.de/projects/schildichat/
 Report the bug: https://github.com/SchildiChat/schildichat-desktop/issues/new/  
 Download: https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.36-sc.3/SchildiChat-1.11.36-sc.3.AppImage
+
+<a href="https://repology.org/project/schildichat-desktop/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/schildichat-desktop.svg" alt="Packaging status" align="right">
+</a>

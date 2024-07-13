@@ -20,3 +20,7 @@ Source code: https://github.com/KRTirtho/spotube
 Donate: https://opencollective.com/spotube  
 Report the bug: https://github.com/KRTirtho/spotube/issues/new/  
 Download: https://github.com/KRTirtho/spotube/releases/download/v3.3.0/Spotube-linux-x86_64.AppImage
+
+<a href="https://repology.org/project/spotube/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/spotube.svg" alt="Packaging status" align="right">
+</a>

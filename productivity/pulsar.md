@@ -21,3 +21,7 @@ Donate: https://opencollective.com/pulsar-edit
 Translate: https://crowdin.com/project/pulsar-edit
 Report the bug: https://github.com/pulsar-edit/pulsar/issues/new/  
 Download: https://github.com/pulsar-edit/pulsar/releases/download/v1.117.0/Linux.Pulsar-1.117.0.AppImage
+
+<a href="https://repology.org/project/pulsar-edit/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/pulsar-edit.svg" alt="Packaging status" align="right">
+</a>

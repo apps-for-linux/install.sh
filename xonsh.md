@@ -1,14 +1,4 @@
----
-title: "xonsh"
-meta_title: ""
-description: "Python-powered, cross-platform, Unix-gazing shell language and command prompt."
-date: 2024-03-07T18:12:00Z
-image: "/images/image-placeholder.png"
-categories: ["System"]
-author: "the xonsh developers"
-tags: ["official"]
-draft: false
----
+# xonsh
 
 Python-powered, cross-platform, Unix-gazing shell language and command prompt
 
@@ -20,3 +10,7 @@ Source code: https://github.com/xonsh/xonsh
 Donate: https://github.com/sponsors/xonsh  
 Report the bug: https://github.com/xonsh/xonsh/issues/new/  
 Download: https://github.com/xonsh/xonsh/releases/download/0.15.1/xonsh-x86_64.AppImage
+
+<a href="https://repology.org/project/xonsh/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/xonsh.svg" alt="Packaging status" align="right">
+</a>

@@ -20,4 +20,3 @@ Source code: https://github.com/libretro/RetroArch
 Donate: https://github.com/sponsors/libretro  
 Translate: https://crowdin.com/project/retroarch/  
 Report the bug: https://github.com/libretro/RetroArch/issues/new/  
-Download: https://buildbot.libretro.com/nightly/linux/x86_64/RetroArch_Qt.7z

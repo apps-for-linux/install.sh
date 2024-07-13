@@ -1,14 +1,5 @@
----
-title: "Sunshine"
-meta_title: ""
-description: "Self-hosted game stream host for Moonlight."
-date: 2024-04-07T06:32:00Z
-image: "/images/image-placeholder.png"
-categories: ["Games"]
-author: "LizardByte"
-tags: ["official"]
-draft: false
----
+# Sunshine"
+
 
 Self-hosted game stream host for Moonlight
 
@@ -20,3 +11,7 @@ Source code: https://github.com/LizardByte/Sunshine
 Donate: https://github.com/sponsors/LizardByte  
 Report the bug: https://github.com/LizardByte/Sunshine/issues/new/  
 Download: https://github.com/LizardByte/Sunshine/releases/download/v0.23.0/sunshine.AppImage
+
+<a href="https://repology.org/project/sunshine/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/sunshine.svg" alt="Packaging status" align="right">
+</a>
