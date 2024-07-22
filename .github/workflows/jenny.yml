@@ -1,11 +1,5 @@
 on: [push]
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 jobs:
   build_job:
     runs-on: ubuntu-latest
@@ -13,7 +7,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: hmngwy/jenny@master
-    - uses: JamesIves/github-pages-deploy-action@v4
+    - uses: JamesIves/github-pages-deploy-action@master
       with:
         branch: main
         folder: .dist # The folder the action should deploy.
