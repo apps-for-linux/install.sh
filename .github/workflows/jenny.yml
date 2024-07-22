@@ -7,8 +7,14 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: hmngwy/jenny@master
-    - uses: actions/deploy-pages
-      with:
-        branch: main
-        folder: .dist # The folder the action should deploy.
 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
