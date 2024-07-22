@@ -9,7 +9,7 @@ jobs:
     - uses: hmngwy/jenny@master
 
   deploy:
-    needs: build
+    needs: build_job
     runs-on: ubuntu-latest
     environment:
       name: github-pages
